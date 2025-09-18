@@ -94,10 +94,10 @@ Backend deployed on Render 📬 : [ https://taskify-ygy4.onrender.com ]
 
 ### Installation
 
-1. Clone the repository: 🔍 
+1.  get the repository: 🔍 
 
    ```bash
-   git clone https://github.com/Aniruddha-Gade/Taskify___MERN-Stack.git
+   https://github.com/Shreebhalerao/Taskify.git
    ```
 
 2. Navigate to the project directory: 📂
@@ -245,8 +245,7 @@ Contributions are welcome!
 # Incomplete Tasks ❌ 
 <img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/doitnow.png' />
 
-# Create Todo 📝 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/create-todo.png' />
+
 
 # Created Todo Toast 📝 
 <img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/create.png' />
@@ -258,9 +257,7 @@ Contributions are welcome!
 
 # About ℹ️ 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/Screenshot%202024-05-02%20235625.png' />
-
-# Footer 🏆
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/footer.png' />
+ 
 
 # Log Out Toast 🚪 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/logout.png' />
