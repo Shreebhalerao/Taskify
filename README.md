@@ -196,7 +196,7 @@ Contributions are welcome!
 # Home Page 🏠 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/home1.png' />
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/home2.png' />
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/home3.png' />
+<img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/Completed.png' />
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/home4.png' />
 
 # Signup Page 📝 
