@@ -21,12 +21,11 @@ const PORT = process.env.PORT || 5000;
 app.use(express.json()); // to parse json body
 app.use(
     cors({
-        origin: '*'
-        // origin: 'http://localhost:5173', // frontend link
-        // origin: "*",
+        origin: 'https://taskify-gilt-mu.vercel.app', // your deployed frontend
         credentials: true
     })
 );
+
 
 
 
