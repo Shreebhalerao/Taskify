@@ -21,7 +21,7 @@ const PORT = process.env.PORT || 5000;
 app.use(express.json()); // to parse json body
 app.use(
     cors({
-        origin: 'https://taskify-ygy4.onrender.com/api/v1'
+        origin: '*'
         // origin: 'http://localhost:5173', // frontend link
         // origin: "*",
         credentials: true
