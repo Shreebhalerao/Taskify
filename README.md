@@ -203,11 +203,11 @@ Contributions are welcome!
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/signup.png' />
 
 # OTP received mail 📝 
-<div style="display: flex; gap: 20px;">
-   <img width='30%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/otp1.jpg' />
+ 
+  
    <img width='30%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/otp2.jpg' />
-</div>
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/otp3.png' />
+ 
+ 
 
 # Verify OTP 🔐
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/verify-otp.png' />
@@ -219,7 +219,7 @@ Contributions are welcome!
 # Forgot Password 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/forgot-pass1.png' />
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/forgot-pass2.png' />
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/forgot-pass4.png' />
+ 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/forgot-pass3.png' />
 
 
@@ -227,42 +227,32 @@ Contributions are welcome!
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/dashboard2.png' />
 
 # Dashboard Page 📊 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/dashboard1.png' />
+<img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/completed.png' />
 
 # Dashboard Page 📊 ( Responsive screen ) 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/dashboard%203.png' />
+<img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/doitnow.png' />
 
 # Search Todo 📊 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/search%20todo1.png' />
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/search%20todo2.png' />
-
-# Loading Skeleton 📊 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/loading-skeleton.png' />
-
-# Data Not Found 📊 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/data-not-found.png' />
-
+<img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/create%201.png' />
+ 
+ 
 # Important Tasks 📌
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/important-task.png' />
+<img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/imp.png' />
 
 # Completed Tasks ✅ 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/completed-task.png' />
+<img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/completed.png' />
 
 # Incomplete Tasks ❌ 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/incomplete-task.png' />
+<img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/doitnow.png' />
 
 # Create Todo 📝 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/create-todo.png' />
 
 # Created Todo Toast 📝 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/create-todo2.png' />
+<img width='100%' src='https://github.com/Shreebhalerao/Taskify/blob/main/screenshots/create.png' />
+ 
 
-# Update Todo 🔄 (auto-fill data) 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/update-todo.png' />
-
-# Todo Details ℹ️ 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/todo-details.png' />
-
+ 
 # Contact 📧 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Taskify___MERN-Stack/blob/main/screenshots/contact.png' />
 
