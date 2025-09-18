@@ -16,14 +16,12 @@ Hashed password using Bcrypt library
 
 <hr/>
 
-<h2>Live link 🌍📡 - [  https://taskify-full-stack.vercel.app/  ]</h2>
+<h2>Live link 🌍📡 - [ https://taskify-gilt-mu.vercel.app/ ]</h2>
+
+ 
 
 <h2>
-Postman Collection 📬 : [  https://elements.getpostman.com/redirect?entityId=29064533-6165ab7d-6558-49f1-bb8f-39bdb8c727d4&entityType=collection  ]
-</h2>
-
-<h2>
-Backend deployed on Render 📬 : [  https://taskify-mern-stack.onrender.com/  ]
+Backend deployed on Render 📬 : [ https://taskify-ygy4.onrender.com ]
 </h2>
 
 <hr/>
